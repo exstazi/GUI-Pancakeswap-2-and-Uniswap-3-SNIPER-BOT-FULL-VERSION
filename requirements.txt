@@ -1,0 +1,7 @@
+eth_typing==2.2.2
+eth_utils==1.10.0
+pycoingecko==2.2.0
+pyetherbalance==0.0.1
+PyQt5==5.15.6
+requests==2.26.0
+web3==5.25.0
